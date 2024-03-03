@@ -1,17 +1,21 @@
-# GeoJSON
+# GeoJSON with Java Sprintboot and MongoDB
 
-## VIDEO TUTORIAL ON HOW TO APPLY
+## Video Tutorial
 [![](https://markdown-videos-api.jorgenkh.no/youtube/BI3jEyNjURY)](https://www.youtube.com/watch?v=BI3jEyNjURY)
-https://www.youtube.com/watch?v=BI3jEyNjURY
+
 
 ## Update application.properties
 spring.data.mongodb.uri=mongodb://localhost:27017
+
 spring.data.mongodb.database=GeoJSONWithMongoDB
+
 spring.data.mongodb.username={PLACE USERNAME}
+
 spring.data.mongodb.password={PLACE CORRECT PASSWORD}
+
 spring.data.mongodb.authdb=admin
 
-## ENTRIES IN THE MONGO DB
+## Entries in MongoDB
 {
   "place": "Statue of Liberty",
   "message": "Beautiful tourism place",
