@@ -1,6 +1,8 @@
 # GeoJSON
 # VIDEO TUTORIAL ON HOW TO APPLY
-[![](https://markdown-videos-api.jorgenkh.no/youtube/0pCqwARIc0s)]([https://youtu.be/0pCqwARIc0s](https://www.youtube.com/watch?v=BI3jEyNjURY))
+
+# VIDEO TUTORIAL ON HOW TO APPLY
+[![](https://markdown-videos-api.jorgenkh.no/youtube/0pCqwARIc0s)](https://www.youtube.com/watch?v=BI3jEyNjURY)
 
 
 ## ENTRIES IN THE MONGO DB
